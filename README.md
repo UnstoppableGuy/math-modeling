@@ -1,2 +1,3 @@
-# math-modeling
-laboratory on mathematical modeling 7ер semester
+# Math Modeling labs
+
+## Лабораторная работа №1. Случайные события и их имитация
